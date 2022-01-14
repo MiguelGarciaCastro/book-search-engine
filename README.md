@@ -73,7 +73,4 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 <img width="1792" alt="Screen Shot 2022-01-14 at 1 24 42 PM" src="https://user-images.githubusercontent.com/87445858/149566782-2968e
 
-<img width="1792" alt="Screen Shot 2022-01-14 at 1 25 17 PM" src="https://user-images.githubusercontent.com/87445858/149566788-8cffbedf-0dd7-4091-9bae-40791eef6108.png">
-73f-caa2-4219-bdce-960430bcd83d.png">
-
 
