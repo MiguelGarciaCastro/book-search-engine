@@ -65,4 +65,15 @@ WHEN I click on the Logout button
 
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 08 PM" src="https://user-images.githubusercontent.com/87445858/149566768-2b630235-bd25-4788-82a4-9e70a2594561.png">
+
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 24 PM" src="https://user-images.githubusercontent.com/87445858/149566774-72e7e751-f120-469c-88a2-d4a2e1268b3c.png">
+
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 28 PM" src="https://user-images.githubusercontent.com/87445858/149566779-434f0afc-2bc4-4334-a335-00dd24ea23ea.png">
+
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 42 PM" src="https://user-images.githubusercontent.com/87445858/149566782-2968e
+
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 25 17 PM" src="https://user-images.githubusercontent.com/87445858/149566788-8cffbedf-0dd7-4091-9bae-40791eef6108.png">
+73f-caa2-4219-bdce-960430bcd83d.png">
+
 
