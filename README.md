@@ -65,12 +65,13 @@ WHEN I click on the Logout button
 
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
-<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 08 PM" src="https://user-images.githubusercontent.com/87445858/149566768-2b630235-bd25-4788-82a4-9e70a2594561.png">
 
-<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 24 PM" src="https://user-images.githubusercontent.com/87445858/149566774-72e7e751-f120-469c-88a2-d4a2e1268b3c.png">
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 08 PM" src="https://user-images.githubusercontent.com/87445858/149567045-ae943d7b-de61-41ae-8287-35421bf90423.png">
 
-<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 28 PM" src="https://user-images.githubusercontent.com/87445858/149566779-434f0afc-2bc4-4334-a335-00dd24ea23ea.png">
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 24 PM" src="https://user-images.githubusercontent.com/87445858/149567052-1bab5299-f833-49ea-bc81-a3cab258d58b.png">
 
-<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 42 PM" src="https://user-images.githubusercontent.com/87445858/149566782-2968e
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 28 PM" src="https://user-images.githubusercontent.com/87445858/149567071-8df7a12c-ece2-4a31-8317-99047baefeee.png">
 
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 24 42 PM" src="https://user-images.githubusercontent.com/87445858/149567085-49baca8b-0244-4c40-8700-ed963619878e.png">
 
+<img width="1792" alt="Screen Shot 2022-01-14 at 1 25 17 PM" src="https://user-images.githubusercontent.com/87445858/149567107-415421d2-1fd0-46ae-8a6d-57adf4e88648.png">
